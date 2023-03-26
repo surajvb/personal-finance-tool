@@ -2,7 +2,7 @@ import React from 'react'
 
 const MoneyManager = () => {
   return (
-    <div>MoneyManager Coming soon .... </div>
+    <div>Money Management by Suraj Bolanaver Coming soon .... </div>
   )
 }
 
