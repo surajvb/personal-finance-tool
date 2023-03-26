@@ -1,8 +1,11 @@
 import React from 'react'
+import HomeBanner from './HomeBanner'
 
 const MoneyManager = () => {
   return (
-    <div>Money Management by Suraj Bolanavar Coming soon .... </div>
+    <div>
+        <HomeBanner/>
+    </div>
   )
 }
 
